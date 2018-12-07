@@ -5,9 +5,9 @@ interface tokenRecipient {
 }
 
 /**
-    author - Hamza Yasin 
-    github - HamzaYasin1
-    linkedin - hamzayasin
+    author - DexfinExchange
+    github - DexfinExchange
+    linkedin - DexfinExchange
  */
  
 contract DXFToken {
